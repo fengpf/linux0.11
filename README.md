@@ -53,5 +53,49 @@ $ make
 same as section 1.2
 
 
-## 3. Build on Windows
+### 3. Build on Windows
 todo...
+
+### 操作系统之基础
+https://mooc.study.163.com/learn/1000002004?tid=2402971010#/learn/content?type=detail&id=2403309701&cid=2403326984
+L1 什么是操作系统
+L2 开始揭开钢琴的盖子
+L3 操作系统启动
+L4 操作系统接口
+L5 系统调用的实现
+L6 操作系统概述
+L7 操作系统历史
+L8 我们的任务
+
+### 操作系统之进程与线程
+https://mooc.study.163.com/learn/1000002008?tid=2402970013#/learn/content?type=detail&id=2403307697&cid=2403327488
+L9 多进程图像
+L11 用户级线程
+L12 核心级线程
+L13 核心级线程实现实例
+L14 CPU调度策略
+L15 一个实际的schedule函数
+L16 进程同步与信号量
+L17 对信号量的临界区保护
+L18 信号量的代码实现
+L19 死锁处理
+
+### 操作系统之内存管理
+https://mooc.study.163.com/learn/1000003007?tid=2402971009#/learn/content?type=detail&id=2403307721&cid=2403326994
+L20 内存使用与分段
+L21 内存分区与分页
+L22 段页结合的实际内存管理
+L23 请求调页内存换入
+L24 内存换出
+
+### 操作系统之外设与文件系统
+https://mooc.study.163.com/learn/1000002009?tid=2402969010#/learn/content
+L25 IO与显示器
+L26 键盘
+L27 生磁盘的使用
+L28 用文件使用磁盘
+L29目录与文件系统
+L30 目录解析代码实现
+
+### 实验楼
+https://www.shiyanlou.com/courses/115
